@@ -1,4 +1,4 @@
-# LeetcodePracticeProblemsPython
+# Leetcode Practice Problems in Python
 A collection of practice problems I'll be working on for interview prep. I got the idea of making it a public repo so I could track my progress and motivate myself to solve problems every day.
 
 ### Organization
